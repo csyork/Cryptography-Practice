@@ -2,4 +2,4 @@
 
 
 ## Resources
-The execercises can be found here: https://cryptopals.com/sets/1
+The exercises can be found here: https://cryptopals.com/sets/1
